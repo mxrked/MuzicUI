@@ -14,11 +14,9 @@ All music used is free to use and from https://www.free-stock-music.com/
 
 TO RUN THE PROGRAM 
 ------------------
-Under dist/StartWindow - Run the StartWindow.exe file
+     Under dist/StartWindow - Run the StartWindow.exe file
 
 
 
--
--
--
+
 Parker :)
