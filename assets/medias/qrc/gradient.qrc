@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>../images/gradient.png</file>
+  </qresource>
+</RCC>

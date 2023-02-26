@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>../images/roa-music-colorful.jpg</file>
+  </qresource>
+</RCC>
