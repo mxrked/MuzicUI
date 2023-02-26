@@ -12,8 +12,8 @@ All music used is free to use and from https://www.free-stock-music.com/
 * Note: Depending on the song's file size, it may a bit to load or might not load at all. If you would like to switch out a song, you can do so.
 
 
-* TO RUN THE PROGRAM *
-
+TO RUN THE PROGRAM 
+------------------
 Under dist/StartWindow - Run the StartWindow.exe file
 
 
