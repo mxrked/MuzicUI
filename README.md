@@ -1,8 +1,8 @@
-=======================================
+===========================
 
-     MUZIC.UI - PyQt5 MP3 Player
+MUZIC.UI - PyQt5 MP3 Player
 
-=======================================
+===========================
 
 
 This project was made with PyQt5 and QtDesigner.
